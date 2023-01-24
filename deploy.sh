@@ -1,2 +1,3 @@
 this file contaisn the deployment script..
+added some stages logic...
 
